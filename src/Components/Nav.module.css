@@ -1,0 +1,48 @@
+.nav {
+    background-color: rgb(26, 26, 26);
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 100px;
+}
+
+.nav > a {
+    color: whitesmoke;
+}
+
+.nav > a:hover{
+    text-shadow: 0 -1px 0 #000, 0 0 5px rgb(255 255 255 / 100%);
+}
+
+.houseicon{
+    height: 30px;
+}
+
+.icon > a{
+color: whitesmoke;
+}
+
+.icon{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    column-gap: 10px;
+}
+
+.icon > a:hover{
+    text-shadow: 0 -1px 0 #000, 0 0 5px rgb(255 255 255 / 100%);
+}
+
+.createproduct{
+    height: 25px;
+}
+.icon > a {
+    color: whitesmoke;
+}
+.icon{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    column-gap: 10px; 
+}

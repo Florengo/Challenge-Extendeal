@@ -1,0 +1,26 @@
+.landing {
+    background-image: url(/src/images/landing.jpg);
+    height: 100vh;
+    margin-top: 0px;
+    background-size: cover;
+    filter: saturate(50%)
+}
+
+.landing>h1 {
+    padding-top: 250px;
+    margin-top: 0px;
+}
+
+.landing > img{
+    width: 250px;
+    position:absolute;
+    bottom: 0px;
+    left: 100px;
+}
+
+.zelda {
+    width: 200px !important; 
+    position:absolute;
+    top: 10px;
+    left:900px !important;
+}

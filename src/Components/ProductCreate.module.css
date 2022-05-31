@@ -1,0 +1,27 @@
+.productcreate {
+    display:flex;
+    flex-direction: column;
+ align-self: center;
+ background-image: url(/src/images/createnewproduct.jpg);
+ background-size: cover;
+}
+
+   
+
+.blur {
+    backdrop-filter: blur(6px) contrast(70%);
+    min-height: 100vh;
+}
+
+.input {
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+    justify-content: end;
+    width: 10vw;
+    margin: auto;
+}
+.button{
+ margin-right: 30px;
+    margin-top: 30px;
+}
